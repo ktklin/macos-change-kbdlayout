@@ -8,6 +8,8 @@ depending on if an external bluetooth keyboard is connected or not.
 In my scenario i have a Macbook with a german keyboard built-in as well as an external one that has a us-english styled layout.
 Depending on if the external keyboard is connected or not i need to set the right keyboard layout/language.
 
+![Change keyboard layout](bluetooth.gif)
+
 ## Installation
 
 Clone the repository
